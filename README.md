@@ -19,7 +19,7 @@ Projeto desenvolvido em sala de aula durante as aulas do curso Técnico de Desen
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript;
-- - Google Cloud Shell
+- Google Cloud Shell
 - Git e Github;
 - Replit;
 - Bibliotecas: cli-color, prompt-sync, @types/node e chalk.
