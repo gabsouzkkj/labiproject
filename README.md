@@ -23,7 +23,8 @@ Projeto desenvolvido em sala de aula durante as aulas do curso Técnico de Desen
 
 Para conseguir executar os comandos do labirinto, primeiramente você deve baixar as dependencias usando:
 
-- Como executar os comandos do labirinto: [NOTION]()
+- Como executar os comandos do labirinto: [NOTION](https://organized-layer-662.notion.site/Getting-Started-c2f2a7fe2a0146ac952970fbe72c4c1c)
+
 Cli-color:
 ```sh
 npm i cli-color
