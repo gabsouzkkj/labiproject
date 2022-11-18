@@ -15,20 +15,41 @@ Projeto desenvolvido em sala de aula durante as aulas do curso Técnico de Desen
 
 ![image](https://user-images.githubusercontent.com/111576636/202312926-a391e31d-365d-4bdc-833c-09e18d89c9de.png)
 
-## 🎁 Descrição
+## 🎁 Descrição do projeto
 
-Exemplificar os comando para executar o labirinto:
+
+
+## 🔮 Exemplificações
+
+Para conseguir executar os comandos do labirinto, primeiramente você deve baixar as dependencias usando:
+
+- Como executar os comandos do labirinto: [NOTION]()
+Cli-color:
+```sh
+npm i cli-color
+```
+Prompt-sync
+```sh
+npm i prompt-sync
+```
+@types/node
+```sh
+npm i @types/node
+```
+Chalk
+```sh
+npm i chalk
+```
 
 ## 🎈 NPM Install
 
 Esse projeto foi desenvolvido com:
 - JavaScript;
-- Google Cloud Shell
+- Google Cloud Shell;
 - Git e Github;
 - Replit;
 - Bibliotecas: cli-color, prompt-sync, @types/node e chalk;
 - Link principal: [NPM](https://www.npmjs.com/).
-- Exemplificar os comando para instalar as dependencias: 
 
 | NPM | PACKAGE |
 | ------ | ------ |
