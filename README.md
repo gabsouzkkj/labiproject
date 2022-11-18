@@ -17,7 +17,7 @@ Projeto desenvolvido em sala de aula durante as aulas do curso Técnico de Desen
 
 ## 🎁 Descrição do projeto
 
-
+O projeto em si, é um mapa que simula o mercado da Amazon Fresh, executando os caminho com maior frequência para o cliente coletar seus produtos. O simulador tem pontos positivos e negativos, pegando chaves para abrir portas, limite de carrinho e cesto de compra cestas de compras. O sistema de economia, consegue fazer um relatório com seu saldo, limites de carrinhos e muito mais!
 
 ## 🔮 Exemplificações
 
