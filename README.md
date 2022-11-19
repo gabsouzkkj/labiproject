@@ -1,7 +1,7 @@
 <h1 align="center">🛒 LABIRINTO AMAZON FRESH 🛒</h1>
 
 <p align="center">
-Projeto desenvolvido em sala de aula durante as aulas do curso Técnico de Desenvolvimento de Sistemas, na matéria: Fundamentos de Lógica de Programação Orientada a Objetos.
+Projeto desenvolvido em sala de aula durante as aulas do Curso Técnico de Desenvolvimento de Sistemas, na matéria de FLPOO (Fundamentos de Lógica de Programação Orientada a Objetos).
 </p>
 
 <p align="center">
@@ -42,6 +42,8 @@ Chalk
 npm i chalk
 ```
 
+- É totalmente obrigatorio a instalações das package para conseguir executar os comandos do labritinto!
+
 ## 🎈 NPM Install
 
 Esse projeto foi desenvolvido com:
@@ -71,10 +73,10 @@ O layout foi desenvolvido pelos membros do grupo e é todo criado por códigos e
 ## 🤠 Créditos
 
 Feito por: 
-- Renan :wave: [LinkedIn](https://www.linkedin.com/in/renan-gabriel/)
-- Daniel :wave: [LinkedIn](https://www.linkedin.com/in/danielfernandes0304/)
-- Leonardo :wave:
-- Samuel :wave: [LinkedIn](https://www.linkedin.com/in/samuel-gon%C3%A7alves-493b7a255/)
-- Gabriel :wave: [LinkedIn](https://www.linkedin.com/in/gabsouzkkj/)
-- Vitor :wave: [LinkedIn](https://www.linkedin.com/in/vitor-junior-25230b249/)
-- Lucas :wave:
+- Renan :wave: [LinkedIn](https://www.linkedin.com/in/renan-gabriel/) | [GitHub](https://github.com/renangabriel08)
+- Daniel :wave: [LinkedIn](https://www.linkedin.com/in/danielfernandes0304/) | [GitHub](https://github.com/Daniel-Fernandes0304)
+- Leonardo :wave: Não tem Linkedin | [GitHub](https://github.com/LeoMazuka)
+- Samuel :wave: [LinkedIn](https://www.linkedin.com/in/samuel-gon%C3%A7alves-493b7a255/) | [GitHub](https://github.com/Muelson)
+- Gabriel :wave: [LinkedIn](https://www.linkedin.com/in/gabsouzkkj/) | [GitHub](https://github.com/gabsouzkkj)
+- Vitor :wave: [LinkedIn](https://www.linkedin.com/in/vitor-junior-25230b249/) | [GitHub](https://github.com/vitornegueba)
+- Lucas :wave:  Não tem Linkedin | [GitHub](https://github.com/xxxlucasmatheus)
