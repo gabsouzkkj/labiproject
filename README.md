@@ -72,6 +72,9 @@ Esse projeto foi desenvolvido com:
 - W: Cima;
 - D: Direita.
 
+~Como pego chaves?
+No mapa, estará escondido chaves para desbloquear portas dentro do mapa (A localização das chaves dentro dos 3 mapas, estão em locais diferentes).
+
 ## 💻 Projeto
 
 Este repositório foi uma entrega onde o projeto é um mapa que simula o mercado da Amazon Fresh, mostrando o melhor caminho para o cliente coletar seus produtos. O mapa conta com capacidade de produtos que analisa se o cliente está com cesto ou carrinho ou sem nada. O sistema analisa seu saldo e desconta após cada produto pego. 
