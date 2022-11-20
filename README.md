@@ -10,8 +10,8 @@ Projeto desenvolvido em sala de aula durante as aulas do Curso Técnico de Desen
 
 <p align="center">
   <a href="#-npm-install">NPM Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-faq">FAQ</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-créditos">Créditos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -45,17 +45,17 @@ Chalk
 npm i chalk
 ```
 
-- É totalmente obrigatorio a instalações das package para conseguir executar os comandos do labritinto!
+- É totalmente obrigatorio a instalação das package para conseguir executar os comandos do labritinto!
 
 ## 🎈 NPM Install
 
 Esse projeto foi desenvolvido com:
 - JavaScript;
-- Google Cloud Shell;
+- Google Cloud Shell: [Terminal](https://shell.cloud.google.com/);
 - Git e Github;
 - Replit;
 - Bibliotecas: cli-color, prompt-sync, @types/node e chalk;
-- NPM PACKAGES: [NPM](https://www.npmjs.com/).
+- Npm Packages: [NPM](https://www.npmjs.com/).
 
 | NPM | PACKAGE |
 | ------ | ------ |
@@ -73,7 +73,7 @@ Esse projeto foi desenvolvido com:
 - D: Direita.
 
 ~Como pego chaves?
-No mapa, estará escondido chaves para desbloquear portas dentro do mapa (A localização das chaves dentro dos 3 mapas, estão em locais diferentes).
+- No mapa, estará escondido chaves para desbloquear portas dentro do mapa (A localização das chaves dentro dos 3 mapas, estão em locais diferentes).
 
 ## 💻 Projeto
 
